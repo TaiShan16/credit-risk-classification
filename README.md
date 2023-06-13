@@ -40,7 +40,7 @@ Comparing the two classification reports from original data and resampled data, 
     "High-Risk" instances.
 
 3. Support:
-    The support values remain the same in both reports, indicating that the number of instances in each type 
+  - The support values remain the same in both reports, indicating that the number of instances in each type 
     of loan did not change during the resampling process.
 
 Based on the results and comparison of the classification reports, I would recommend using the model for the company because of the following justification:
