@@ -1,5 +1,5 @@
 # credit-risk-classification
-# Credit Risk Analysis Report
+### Credit Risk Analysis Report
 
 ### Overview
 In this project, we will use various techniques to train and evaluate a model based on loan risk. We use a data set of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of the borrowers. 
